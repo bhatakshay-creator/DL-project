@@ -1,0 +1,27 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.venv/
+venv/
+.env
+.env.*
+.ipynb_checkpoints/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Model artifacts / generated outputs
+checkpoints/
+results/
+*.h5
+*.ckpt
+*.pth
+*.pt
+*.pkl
+
+# Data folders if you do not want to push large local data
+# dataset/

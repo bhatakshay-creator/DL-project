@@ -1,0 +1,19 @@
+{
+  "species": [
+    "Maple",
+    "Oak",
+    "Birch",
+    "Willow",
+    "Pine",
+    "Eucalyptus",
+    "Palm",
+    "Fern",
+    "Ivy",
+    "Mint"
+  ],
+  "num_species": 10,
+  "samples_per_class": 200,
+  "image_size": 64,
+  "total_images": 2000,
+  "seed": 42
+}
